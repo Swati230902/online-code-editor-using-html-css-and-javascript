@@ -1,4 +1,4 @@
-# online-code-editor-using html css and javascript
+# Online-code-editor-using html css and javascript
 
 ## Overview
 This Online Code Editor is a lightweight, browser-based code editor built using HTML, CSS, and JavaScript. Designed for developers and learners, it provides a seamless interface to write, edit, and execute code in real-time.
