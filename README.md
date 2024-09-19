@@ -19,9 +19,3 @@ This Online Code Editor is a lightweight, browser-based code editor built using 
 ## Why This Project?
 This project showcases my ability to develop user-friendly web applications with a focus on real-time interactivity and responsive design. The editor is perfect for developers looking for an intuitive tool that supports immediate code execution.
 
-## How to Use
-Clone the repository:
-git clone https://github.com/yourusername/online-code-editor.git
-Open the index.html file in any modern browser.
-Start typing code in the editor and watch the live preview update in real-time.
-
